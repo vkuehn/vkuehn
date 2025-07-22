@@ -3,7 +3,7 @@
 - 👋 Hi, I’m VolkerKuehn
 - 👀 I’m interested in Github, OpenSouce...
 - 🌱 I’m currently learning AI, python...
-- 💞️ I’m looking to collaborate on OSS Robotics Projects
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me rais an issue
 <!---
 vkuehn/vkuehn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
